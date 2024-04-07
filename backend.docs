@@ -1,0 +1,18 @@
+create a folder
+run npm init -> in the terminal
+
+upload on git 
+
+-> to upload a any folder on git use .gitkeep file 
+
+-> make a git ignore file
+goto git ignore generator to generate git ignore file copy and paste it 
+
+create a .env file for envornoment variable -> dont put this file to github 
+
+add a another file name .env.sample to put on git hub 
+
+-> make a src folder to keep all the files 
+
+-> use prettier for spacing or layout of the code 
+-> make  additional prettier file .prettier.rc,  
